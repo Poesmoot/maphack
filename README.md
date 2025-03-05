@@ -1,7 +1,7 @@
 # maphack
 ![gui](https://github.com/user-attachments/assets/b7a51d84-845b-4025-80c2-ac154a3794ce)
 
-<li>Feature Set & Functionality:</li>
+<il>Feature Set & Functionality:
 Works with POE1 and POE2!
 Autopot – Supports Controllers, Mind over Matter, and Hybrid builds
 Auto Logout/Escape on HP/ES/Mana threshold
@@ -32,3 +32,4 @@ Minimap reveal and zoom-out are applied by editing specific game files before la
 Server-side offset updates on startup
 Automatic updates on major releases
 As secure as it can be
+</il>
