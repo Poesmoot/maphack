@@ -1,7 +1,7 @@
 # maphack
 ![gui](https://github.com/user-attachments/assets/b7a51d84-845b-4025-80c2-ac154a3794ce)
 
-Feature Set & Functionality:
+<li>Feature Set & Functionality:</li>
 Works with POE1 and POE2!
 Autopot – Supports Controllers, Mind over Matter, and Hybrid builds
 Auto Logout/Escape on HP/ES/Mana threshold
