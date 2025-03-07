@@ -1,5 +1,5 @@
 # maphack
-<li>![gui](https://github.com/user-attachments/assets/b7a51d84-845b-4025-80c2-ac154a3794ce)
+![gui](https://github.com/user-attachments/assets/b7a51d84-845b-4025-80c2-ac154a3794ce)
   
 <li>Install java https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251656_7ed26d28139143f38c58992680c214a5</li>
 
